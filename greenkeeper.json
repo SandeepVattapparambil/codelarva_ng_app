@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "js/sweetalert/package.json"
+      ]
+    }
+  }
+}
